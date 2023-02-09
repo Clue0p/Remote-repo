@@ -54,3 +54,24 @@ git clone
 git clone https://github.com/Clue0p/Mayuresh.git
 git clone
 git clone https://github.com/Clue0p/Mayuresh.git
+git clone
+git clone https://github.com/Clue0p/Mayuresh.git
+git clone 
+git clone https://github.com/Clue0p/Mayuresh.git
+git clone https://github.com/Clue0p/Mayuresh.githttps://github.com/Clue0p/Mayuresh.git
+https://github.com/Clue0p/Mayuresh.gitgi
+git clone https://github.com/Clue0p/Mayuresh.git
+git clone Password for 'https://Clue0p@github.com':
+ls -la
+git clone git@github.com:Clue0p/Mayuresh.git
+git clone https://github.com/Clue0p/Mayuresh.git
+git clone 
+git clone https://github.com/Clue0p/Mayuresh.git
+sjhbsadbsahbhba\
+ git clone https://github.com/Clue0p/Mayuresh.githttps://github.com/Clue0p/Mayuresh.git
+ git clone https://github.com/Clue0p/Mayuresh.git
+tree
+git remote add origin https://github.com/Clue0p/Mayuresh.git
+treee
+tree
+git push BM master
